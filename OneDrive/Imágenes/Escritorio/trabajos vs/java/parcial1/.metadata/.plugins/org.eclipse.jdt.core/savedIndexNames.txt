@@ -1,0 +1,5 @@
+INDEX VERSION 1.134+C:\Users\ASUS\OneDrive\Imágenes\Escritorio\trabajos vs\java\parcial1\.metadata\.plugins\org.eclipse.jdt.core
+3959137331.index
+372242590.index
+1865797976.index
+1688168857.index
